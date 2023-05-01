@@ -1,0 +1,8 @@
+name: comparison_exp
+dependencies:
+    - pip
+    - pip:
+        - torch
+        - torchvision
+        - ptflops
+        - matplotlib
