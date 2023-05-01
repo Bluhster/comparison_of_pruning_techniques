@@ -16,4 +16,4 @@ All plots included in the thesis with a few additonal ones can be found in "grap
 6. execute the experiment.py file and observe the prints in the terminal to keep track of what is happening
 7. execute plot.py to generate some of the utilized plots in the thesis
 
-Alternatively it is also possible to install the dependencies in "environment.yml" manually and skip to 6. of installation
+Alternatively it is also possible to install the dependencies in "environment.yml" manually and skip to step 6 of the installation
