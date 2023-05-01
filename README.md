@@ -13,7 +13,7 @@ All plots included in the thesis with a few additonal ones can be found in "grap
  - conda env create -f environment.yml (with conda)
 5. activate the created enrivonment "comparison_exp"
  - conda activate comparison_exp (with conda)
-6. execute the experiment.py file
+6. execute the experiment.py file and observe the prints in the terminal to keep track of what is happening
 7. execute plot.py to generate some of the utilized plots in the thesis
 
 Alternatively it is also possible to install the dependencies in "environment.yml" manually and skip to 6. of installation
