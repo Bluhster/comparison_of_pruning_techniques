@@ -355,8 +355,8 @@ def compute(model, iterative_pruning = False, method = "", model_name = "model",
         args.sparsity = 0.8
     else:
         args.sparsity = 0.9
-                                 #  epochs    learning rate   save directory
-    args.epochs, args.lr, args.save_dir                     = 50,         0.1,            "./saved_models" + save,
+                                                            #  epochs    learning rate   save directory
+    args.epochs, args.lr, args.save_dir                     = 10,         0.1,            "./saved_models" + save,
                                                             # lasso lambda      lasso_threshold
     args.las_lam, args.las_thresh                           = 0.0001,           0.001,
      # Check the save_dir exists or not
